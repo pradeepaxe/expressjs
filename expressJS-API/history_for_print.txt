@@ -1,0 +1,500 @@
+   47  ls
+   48  cd ..
+   49  ls
+   50  cd express.code-workspace 
+   51  ls
+   52  cd express.code-workspace 
+   53  ls
+   54  sudo -i
+   55  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   56  brew search node
+   57  brew unlink node
+   58  node -v
+   59  brew unlink node@10.15.3
+   60  brew unlink node@10
+   61  brew unlink node
+   62  brew install node@6
+   63  brew install node@8
+   64  brew unlink node
+   65  node -v
+   66  brew unlink nodev10.15.3
+   67  brew unlink node@10.15.3
+   68  brew link node@6
+   69  brew link node@6
+   70  brew link node@8
+   71  brew link --force --overwrite node@6
+   72  brew link --force --overwrite node@8
+   73  sudo brew link --force --overwrite node@8
+   74  brew link --force --overwrite node@8
+   75  node --version
+   76  node 
+   77  brew install node@8
+   78  brew reinstall node@8
+   79  brew link node@8
+   80  node --version
+   81  node@8
+   82  npm
+   83  ls
+   84  rm package-lock.json 
+   85  cd Do
+   86  cd Doc
+   87  cd Documents/
+   88  ls
+   89  cd express.code-workspace 
+   90  ls
+   91  cd expressJS
+   92  ls
+   93  cd exec/
+   94  ls
+   95  cd expressjs
+   96  ls
+   97  rm package-lock.json 
+   98  cd after
+   99  ls
+  100  rm package-lock.json 
+  101  ls
+  102  npm install
+  103  sudo -i
+  104  node
+  105  npm
+  106  brew install node@<version>
+  107  brew install node@8
+  108  npm install -g node@8.12
+  109  brew install node
+  110  node -v
+  111  npm -v
+  112  np,
+  113  node
+  114  ls
+  115  cd Documents
+  116  ls
+  117  cd expressJS
+  118  ls
+  119  cd exec
+  120  ls
+  121  rm *node
+  122  rm *node*
+  123  ls
+  124  cd express
+  125  ls
+  126  cd expressjs
+  127  ls
+  128  cd after
+  129  ls
+  130  cd module1/
+  131  ls
+  132  cd first-app1/
+  133  ls
+  134  npm install nodemon
+  135  nodemon
+  136  nodemon index.js 
+  137  nodemon index.js 
+  138  nodemon index.js 
+  139  nodemon index.js 
+  140  nodemon index.js 
+  141  nvm -v
+  142  npm install --save express jade pug
+  143  pwd
+  144  sudo npm install --save express jade pug
+  145  nvm 
+  146  node -v
+  147  nvm install 9.5
+  148  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  149  wget
+  150  curl
+  151  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  152  nvm
+  153  nvm
+  154  ls
+  155  cd Downloads/]]
+  156  ls
+  157  ssh --i edu.pem ec2-user@54.188.75.7
+  158  ssh -i edu.pem ec2-user@54.188.75.7
+  159  chmod 400 edu.pem
+  160  ssh -i edu.pem ec2-user@54.188.75.7
+  161  ssh -i edu.pem ec2-user@54.188.75.7
+  162  ssh -i edu.pem ec2-user@54.188.75.7
+  163  ssh -i edu.pem ec2-user@54.188.75.7
+  164  clear
+  165  ssh -i edu.pem ec2-user@34.210.8.226
+  166  nvm
+  167  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  168  export NVM_DIR="$HOME/.nvm"
+  169  nvm
+  170  export NVM_DIR="$HOME/.nvm"
+  171  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  
+  172  nvm
+  173  nvm 
+  174  node -v
+  175  nvm install 9.5
+  176  node -v
+  177  node -v
+  178  nvm install --lts
+  179  nvm alias default 9.5
+  180  nvm alias default 8.9.4
+  181  nvm install 8.9.4
+  182  nvm alias default 8.9.4
+  183  node
+  184  mkdir library
+  185  ls
+  186  cd Documents
+  187  dir
+  188  ls
+  189  cd express
+  190  cd expressJS
+  191  dir
+  192  DIR
+  193  LS
+  194  mkdir npm+express
+  195  cd npm+express/
+  196  npm init
+  197  ks
+  198  ls
+  199  npm install
+  200  ls
+  201  cd ..
+  202  dir
+  203  pwd
+  204  mkdir expressJS2
+  205  cd expressJS2/
+  206  ls
+  207  npm init
+  208  ls
+  209  vi ~/.npmrc
+  210  vi ~/.npmrc
+  211  cd ~/
+  212  ls
+  213  ls -al
+  214  vi ~/.npm
+  215  ls
+  216  pwd
+  217  cd node_modules/
+  218  ls
+  219  cd bootstrap/
+  220  cd dist/
+  221  ls
+  222  cd js
+  223  pwd
+  224  ls
+  225  cd ..
+  226  ls
+  227  cd css
+  228  pwd
+  229  cd ..
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd ..
+  234  ls
+  235  cd jquery
+  236  ls
+  237  cd dist
+  238  ls
+  239  pwd
+  240  npm start
+  241  npm start
+  242  npm start
+  243  npm install -g eslint
+  244  npm install -g eslint -S
+  245  npm install pug -S
+  246  sudo npm install pug -save
+  247  sudo npm install pug --save
+  248  npm start
+  249  clear
+  250  npm install ejb --save
+  251  sudo npm install ejb --save
+  252  '
+  253  '
+  254  pwd
+  255  sudo npm install ejs --save
+  256  sudo npm install ejs --save
+  257  npm start
+  258  npm start
+  259  npm start
+  260  clear
+  261  node app.js
+  262  node app.js
+  263  clear
+  264  node app.js
+  265  sudo npm install ejs --save
+  266  npm install ejs --save-dev
+  267  sudo npm install ejs --save-dev
+  268  npm start
+  269  grunt watch
+  270  node app.js
+  271  node app.js
+  272  npm install
+  273  clear
+  274  npm start
+  275  node app.js
+  276  npm start
+  277  pwd
+  278  cd ..
+  279  cd ..
+  280  pwd
+  281  cd ..
+  282  pwd
+  283  pwd
+  284  ls
+  285  cd ..
+  286  ls
+  287  npm install ejs
+  288  pwd
+  289  ls
+  290  cd expressJS2/
+  291  npm install ejs
+  292  npm install ejs --save
+  293  npm start
+  294  PWD
+  295  pwd
+  296  npm install -g eslint -S
+  297  sudo npm install -g eslint -S
+  298  eslint --init
+  299  eslint --init
+  300  eslint --init
+  301  ./node_modules/.bin/eslint app.js
+  302  eslint -v
+  303  npm uninstall -g eslint
+  304  npm uninstall -g eslint
+  305  clear
+  306  eslint -v
+  307  npm uninstall -g eslint
+  308  sudo npm uninstall -g eslint
+  309  eslint -v
+  310  npm run lint
+  311  LS
+  312  ls
+  313  clear
+  314  eslint
+  315  npm run lint
+  316  pwd
+  317  ls
+  318  ./node_modules/.bin/eslint app.js
+  319  clear
+  320  ./node_modules/.bin/eslint app.js
+  321  LS
+  322  ls
+  323  npm start
+  324  npm start
+  325  ls
+  326  dir
+  327  ls
+  328  npm install --save express
+  329  ls
+  330  pwd
+  331  ls
+  332  cd node_modules/
+  333  s
+  334  ls
+  335  cd ..
+  336  ls
+  337  ls
+  338  npm install --save express
+  339  ls
+  340  vi ~/.npmrc
+  341  ls -al
+  342  cd ~/
+  343  ls -al
+  344  npm install chalk
+  345  ls
+  346  node app.js
+  347  ls
+  348  npm install chalk
+  349  ls
+  350  vi package.json
+  351  cd ..
+  352  ls
+  353  cd expressJS2/
+  354  ls
+  355  node app.js
+  356  node app.js
+  357  node app.js
+  358  node app.js
+  359  ls
+  360  npm install bootstrap jquery -S
+  361  ls
+  362  npm start
+  363  ls
+  364  pwd
+  365  ls
+  366  pwd
+  367  npm start
+  368  npm start
+  369  npm start
+  370  npm start
+  371  npm start
+  372  brctl log --wait --shorten
+  373  history
+  374  pwd
+  375  cd Documents/
+  376  ls
+  377  cd mongodb/
+  378  cd bin
+  379  ls
+  380  cd mongodb-osx-x86_64-4.0.9/
+  381  ls
+  382  cd bin
+  383  sudo mkdir -p /data/db
+  384  chmpd 777 /data/db
+  385  chmod 777 /data/db
+  386  ls
+  387  ./mongod
+  388  ls
+  389  mkdir -p /data/db
+  390  ls
+  391  sudo chmod 777 /data/db
+  392  ./mongod
+  393  history
+  394  cat history >>history-mongodb.txt
+  395  echo history >>history-mongodb.txt
+  396  ./mongod
+  397  show dbs
+  398  pwd
+  399  cd Documents/mongodb/
+  400  ls
+  401  cd mongodb-osx-x86_64-4.0.9/
+  402  ls
+  403  cd bin
+  404  bin
+  405  ls
+  406  ./mongo
+  407  ./mongo
+  408  owd
+  409  pwd
+  410  npm start
+  411  npm start
+  412  npm start
+  413  npm start
+  414  pwd
+  415  npm install --save asyncawait
+  416  babel-node app.js
+  417  node app.js
+  418  ./node_modules/.bin/babel-node app.js
+  419  ./node_modules/.bin/babel-node app.js
+  420  clear
+  421  ./node_modules/.bin/babel-node app.js
+  422  node -v
+  423  nvm install 8.9.4
+  424  nvm
+  425  touch ~/.bash_profile
+  426  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
+  427  nvm -v
+  428  pw
+  429  pwd
+  430  nvm
+  431  nvm
+  432  nvm install 8.9.4
+  433  pwd
+  434  ls
+  435  ls -al
+  436  npm start
+  437  npm install debug --save
+  438  pwd
+  439  npm install debug
+  440  sudo npm install debug --save
+  441  npm start
+  442  npm start
+  443  npm start
+  444  npm start
+  445  history
+  446   clear
+  447  ls
+  448  cd Library
+  449  ls
+  450  pwd
+  451  cd ..
+  452  cd ..
+  453  ls
+  454  cd home
+  455  ls
+  456  cd Library
+  457  pwd
+  458  cd Users
+  459  ls
+  460  cd ..
+  461  ls
+  462  cd Users
+  463  ls
+  464  cd admin
+  465  cd Library/Mobile
+  466  cd Library/
+  467  ls
+  468  cd /Users/admin/iCloud Drive (Archive) - 3/eclipse-workspace
+  469  ls
+  470  cd \
+  471  cd /Users/admin/iCloud Drive (Archive) - 3/eclipse-workspace
+  472  cd Users/admin/
+  473  pwd
+  474  cd 
+  475  cd ..
+  476  ls
+  477  cd ..
+  478  cd ..
+  479  las
+  480  cd /Users/admin/iCloud Drive (Archive) - 3/eclipse-workspace
+  481  cd /Users/admin/iCloud Drive (Archive) - 3
+  482  cd /Users/admin/iCloud\ Drive\ \(Archive\)
+  483  ls
+  484  cd ..
+  485  ks
+  486  ls
+  487  cd iCloud Drive (Archive) - 3/
+  488  iCloud Drive (Archive) - 3
+  489  cd  iCloud\ Drive\ \(Archive\) -3/
+  490  ls
+  491  cd eclipse-workspace/
+  492  ;s
+  493  ls
+  494  pwd
+  495  pwd
+  496  ls
+  497  cd ..
+  498  ls
+  499  pwd
+  500  cd ..
+  501  ls
+  502  ls
+  503  npm init
+  504  pwd
+  505  ls
+  506  cd expressJS
+  507  ls
+  508  cd expressJS2
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd ..
+  513  ls
+  514  pwd
+  515  pwd
+  516  cd ..
+  517  cd Documents/
+  518  ls
+  519  mkdir expressJS-API
+  520  cd expressJS-API
+  521  npm init
+  522  ls
+  523  pwd
+  524  npm install express --save
+  525  ls
+  526  node app.js
+  527  npm i eslint -D
+  528  npm run eslint -- --init
+  529  npm run lint -- --init
+  530  clear
+  531  npm run lint
+  532  node app.js
+  533  node app.js
+  534  node app.js
+  535  npm install nodemon
+  536  npm start
+  537  cat >writeToFile.txt
+  538  cat history >writeToFile.txt
+  539  cat history > wri.txt
+  540  cat history >> wri.txt
+  541  cat history>init.txt
+  542  echo history>init.txt
+  543  cat history > init1.txt <<EOF
+  544  cat init.txt
+  545  history
+  546  history > history_for_print.txt

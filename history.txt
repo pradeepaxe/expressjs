@@ -1,0 +1,241 @@
+    1  mongo -version
+    2  cd ~
+    3  vim .bash_profile 
+    4  mongo -version
+    5  ./mongo -version
+    6  cd /data/db
+    7  ;s
+    8  ls
+    9  whoami
+   10  cd 
+   11  pwd
+   12  vi .bash_profile
+   13  vi .bash_profile
+   14  vi .bash_profile
+   15  ls
+   16  cd mongodb-osx-x86_64-4.0.9/
+   17  pwd
+   18  cd ..
+   19  ls
+   20  vi .bash_profile 
+   21  mongo
+   22  ./mongo
+   23  ./mongod
+   24  pwd
+   25  cd ~
+   26  ls
+   27  cd /
+   28  ls
+   29  vim .bash_profile
+   30  touch .bash_profile
+   31  sudo touch .bash_profile
+   32  vim .bash_profile
+   33  ls
+   34  ls
+   35  ./mongo bookAPI < booksJson.js
+   36   sudo nano /etc/paths
+   37  echo $PATH
+   38  vim .bash_profile
+   39  cd /
+   40  vim .bash_profile 
+   41  ls -al
+   42  ls
+   43  cd Users
+   44  ls
+   45  cd admin
+   46  ls
+   47  vi .bash_profile 
+   48  echo $PATH
+   49  echo $PATH
+   50  ./mongod
+   51  ./mongo
+   52  cd /
+   53  ;s
+   54  cd ~
+   55  echo $PATH
+   56  cd ~
+   57  ls
+   58  echo $PATH
+   59  cd ..
+   60  cd /
+   61  ;s
+   62  ls
+   63  ./mongo
+   64  echo $PATH
+   65  vi ~/.bash_profile
+   66  echo $PATH
+   67  echo $PATH
+   68  ./mongo
+   69  pwd
+   70  cd Users/admin/Downloads/mongodb-osx-x86_64-4.0.9/bin
+   71  cd Users/admin/Downloads/mongodb-osx-x86_64-4.0.9
+   72  cd Users/admin/Downloads/
+   73  cd Users/
+   74  cd Users
+   75  pwd
+   76  cd Users/admin
+   77  vim ~/.bash_profile
+   78  ./mongo
+   79  pwd
+   80  pwd
+   81  ls
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd ..
+   86  ls
+   87  ll
+   88  ls
+   89  cd ..
+   90  ls
+   91  pwd
+   92  pwd
+   93  ls
+   94  cd ..
+   95  ls
+   96  pwd
+   97  cd ..
+   98  ls
+   99  ls
+  100  npm init
+  101  pwd
+  102  ls
+  103  cd expressJS
+  104  ls
+  105  cd expressJS2
+  106  ls
+  107  cd ..
+  108  ls
+  109  cd ..
+  110  ls
+  111  pwd
+  112  pwd
+  113  cd ..
+  114  cd Documents/
+  115  ls
+  116  mkdir expressJS-API
+  117  cd expressJS-API
+  118  npm init
+  119  ls
+  120  pwd
+  121  npm install express --save
+  122  ls
+  123  node app.js
+  124  npm i eslint -D
+  125  npm run eslint -- --init
+  126  npm run lint -- --init
+  127  clear
+  128  npm run lint
+  129  node app.js
+  130  node app.js
+  131  node app.js
+  132  npm install nodemon
+  133  npm start
+  134  cat >writeToFile.txt
+  135  cat history >writeToFile.txt
+  136  cat history > wri.txt
+  137  cat history >> wri.txt
+  138  cat history>init.txt
+  139  echo history>init.txt
+  140  cat history > init1.txt <<EOF
+  141  cat init.txt
+  142  history
+  143  history > history_for_print.txt
+  144  ls
+  145  rm wri.txt
+  146  rm writeToFile.txt 
+  147  cat history_for_print.txt 
+  148  npm start
+  149  cd /Users/admin/Downloads/mongodb-osx-x86_64-4.0.9/bin
+  150  ls
+  151  ./mongod
+  152  ./mongod
+  153  mongod
+  154  ls
+  155  cd /usr/local/var/mongodb/
+  156  cd /usr/local/var/mongodb
+  157  cd /usr/local/var/
+  158  ls
+  159  cd homebrew
+  160  ls
+  161  cd ..
+  162  cd ..
+  163  cd ~/mongodb
+  164  ls
+  165  cd ~
+  166  ls
+  167  cd /usr/local/var/mongodb/
+  168  pwd
+  169  cat >> history <<EOF
+  170  ./mongo
+  171  ls
+  172  cd /Users/admin/Downloads/mongodb-osx-x86_64-4.0.9/bin
+  173  ./mongo
+  174  ./mongo bookAPI < booksJson.js
+  175  ls
+  176  ./mongo bookAPI < booksJson.js
+  177  pwd
+  178  clear
+  179  pwd
+  180  ls
+  181  ./mongo bookAPI<booksJson.js
+  182  ./mongo bookAPI<booksJson.js
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd bin
+  187  ls
+  188  ls
+  189  ./mongo
+  190  ./mongo
+  191  npm install mongoose 
+  192  npm install mongoose --save
+  193  npm start
+  194  clear
+  195  clear
+  196  npm start
+  197  ls
+  198  cd ..
+  199  ls
+  200  cd ..
+  201  ls
+  202  cd expressJS-API/
+  203  ls
+  204  npm start
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd expressJS-API/
+  209  npm install mongoose --save
+  210  npm start
+  211  npm start
+  212  npm start
+  213  npm install body-parser --save
+  214  npm init
+  215  npm start
+  216  npm start
+  217  pwd
+  218  npm start
+  219  node app.js
+  220  npm start
+  221  npm start
+  222  npm start
+  223  npm start
+  224  npm start
+  225  npm start
+  226  clear
+  227  pwd
+  228  ls
+  229  brew install git
+  230  ls
+  231  ls
+  232  cd ..
+  233  ls
+  234  rm express.code-workspace 
+  235  rm package.json 
+  236  ls
+  237  git init
+  238  git add expressJS
+  239  git status
+  240  git add expressJS-API
+  241  history >> history.txt
